@@ -1,0 +1,12 @@
+C:\software\VB projects\Assignment3_AlexeiDvorezki\obj\Debug\Text editor.vbprojAssemblyReference.cache
+C:\software\VB projects\Assignment3_AlexeiDvorezki\obj\Debug\Assignment3_AlexeiDvorezki.AboutBox1.resources
+C:\software\VB projects\Assignment3_AlexeiDvorezki\obj\Debug\Assignment3_AlexeiDvorezki.AboutBox2.resources
+C:\software\VB projects\Assignment3_AlexeiDvorezki\obj\Debug\Assignment3_AlexeiDvorezki.AboutBox3.resources
+C:\software\VB projects\Assignment3_AlexeiDvorezki\obj\Debug\Assignment3_AlexeiDvorezki.AboutBox4.resources
+C:\software\VB projects\Assignment3_AlexeiDvorezki\obj\Debug\Assignment3_AlexeiDvorezki.Assignment3_AlexeiDvorezki.resources
+C:\software\VB projects\Assignment3_AlexeiDvorezki\obj\Debug\Assignment3_AlexeiDvorezki.Resources.resources
+C:\software\VB projects\Assignment3_AlexeiDvorezki\obj\Debug\Text editor.vbproj.GenerateResource.cache
+C:\software\VB projects\Assignment3_AlexeiDvorezki\obj\Debug\Text editor.vbproj.CoreCompileInputs.cache
+C:\software\VB projects\Assignment3_AlexeiDvorezki\obj\Debug\Assignment3_AlexeiDvorezki.exe
+C:\software\VB projects\Assignment3_AlexeiDvorezki\obj\Debug\Assignment3_AlexeiDvorezki.xml
+C:\software\VB projects\Assignment3_AlexeiDvorezki\obj\Debug\Assignment3_AlexeiDvorezki.pdb
